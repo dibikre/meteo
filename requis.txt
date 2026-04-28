@@ -1,0 +1,8 @@
+pip install tkintermapview
+pip install requests
+pip install datetime
+pip install sqlite3
+pip install locale
+pip install pathlib
+pip install customtkinter
+pip install pillow
