@@ -88,8 +88,8 @@ Les principales dependances sont :
 1. Clonez le depot sur votre machine :
 
 ```
-git clone https://github.com/votre-utilisateur/votre-depot.git
-cd votre-depot
+git clone https://github.com/dibikre/meteo.git
+cd meteo.git
 ```
 
 2. Installez les dependances :
